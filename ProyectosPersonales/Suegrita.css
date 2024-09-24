@@ -7,10 +7,10 @@ body{
 }
 .titulo p{
 
+    font-size: 40px;
     color: red;
     margin-top: 50px;
     animation: arcoiris 10s infinite; 
-    font-size: 40px;
 }
 .titulo{
 
@@ -24,7 +24,7 @@ body{
 .texto{
 
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     margin-top: 30px ;
     display: flex;
     justify-content: center;
